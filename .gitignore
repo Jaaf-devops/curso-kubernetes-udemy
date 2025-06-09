@@ -1,3 +1,6 @@
 # Claves privadas de Kubernetes/SSH
 *.pem
 *.key
+*.crt
+*.csr
+steps.txt
